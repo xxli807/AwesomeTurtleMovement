@@ -1,0 +1,5 @@
+
+dist/
+config.Local.json
+.vscode/settings.json
+.vs/*
