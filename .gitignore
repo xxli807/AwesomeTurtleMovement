@@ -3,3 +3,5 @@ dist/
 config.Local.json
 .vscode/settings.json
 .vs/*
+bin/
+obj/
