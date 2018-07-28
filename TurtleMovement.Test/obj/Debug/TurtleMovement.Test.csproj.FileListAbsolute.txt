@@ -1,0 +1,17 @@
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\TurtleMovement.Test.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\TurtleMovement.Test.pdb
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\TurtleMovement.exe
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\TurtleMovement.pdb
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\TurtleMovement.exe.config
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\obj\Debug\TurtleMovement.Test.csprojAssemblyReference.cache
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\obj\Debug\TurtleMovement.Test.csproj.CoreCompileInputs.cache
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\obj\Debug\TurtleMovement.Test.csproj.CopyComplete
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\obj\Debug\TurtleMovement.Test.dll
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement.Test\obj\Debug\TurtleMovement.Test.pdb

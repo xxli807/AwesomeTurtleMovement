@@ -1,0 +1,6 @@
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement\obj\Debug\TurtleMovement.csproj.CoreCompileInputs.cache
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement\bin\Debug\TurtleMovement.exe.config
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement\bin\Debug\TurtleMovement.exe
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement\bin\Debug\TurtleMovement.pdb
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement\obj\Debug\TurtleMovement.exe
+C:\Users\xin\Documents\GitHub\AwesomeTurtleMovement\TurtleMovement\obj\Debug\TurtleMovement.pdb
